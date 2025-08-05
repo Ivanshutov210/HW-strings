@@ -14,7 +14,6 @@ public class Main {
         String fullName1 = fullName.toUpperCase();
         System.out.println("Данные Ф. И. О. сотрудника для заполнения отчет " + fullName1);
 
-
         System.out.println(" Задача 3 ");
         String fullName3 = " Иванов Семён Семёнович ";
         fullName3 =  fullName3.replace("ё","e");
